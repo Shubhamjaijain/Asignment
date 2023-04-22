@@ -1,0 +1,9 @@
+Web scraping:- the process of extracting information from websites. It includes text, images, videos, and other types of data that are publicly available on the internet. 
+
+The process of web scraping involves three main steps:-
+1.Sending a request to a website, 
+2.Parsing the HTML or XML content, 
+3.Extracting the relevant information. 
+
+
+
